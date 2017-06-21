@@ -1,0 +1,6 @@
+[package]
+name = "simpletest"
+version = "0.1.0"
+authors = ["roblabla <unfiltered@roblab.la>"]
+
+[dependencies]
