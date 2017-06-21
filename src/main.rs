@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world!");
+    panic!("This should show a backtrace. Please ?");
 }
